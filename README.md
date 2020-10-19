@@ -1,2 +1,2 @@
 # Choosing-Best-Algorithm-for-Iris-Classification
-Using K-Fold Cross Validation
+Out of all the Supervised Algorithm we used K-Fold Cross Validation to choose the best Algorithm for highest accuracy.
